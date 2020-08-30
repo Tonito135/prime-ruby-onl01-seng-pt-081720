@@ -1,3 +1,3 @@
 array = []
 def prime(numbers)
-  array.
+  array.find do

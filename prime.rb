@@ -1,2 +1,3 @@
-def prime(number)
-  
+array = []
+def prime(numbers)
+  array.

@@ -1,4 +1,9 @@
 array = []
 def prime(numbers)
-  array.find do |number|
+  if array.find do |number|
     number.odd?
+    puts "Prime Number"
+  else
+    puts "Even Number"
+  end
+end

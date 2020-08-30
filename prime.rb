@@ -7,6 +7,6 @@ def prime?(numbers)
     end
   end
   else
-    puts "true"
+    return "true"
   end
 end

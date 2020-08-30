@@ -1,4 +1,3 @@
-array = []
 def prime(numbers)
   if numbers <= 1 || numbers == 0 || numbers == 1
     return false

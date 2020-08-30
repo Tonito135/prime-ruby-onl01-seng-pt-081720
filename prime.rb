@@ -1,3 +1,4 @@
 array = []
 def prime(numbers)
-  array.find do
+  array.find do |number|
+    number

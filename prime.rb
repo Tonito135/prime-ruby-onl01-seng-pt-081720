@@ -6,6 +6,7 @@ def prime(numbers)
     if numbers % number = 0 
       return false
     end
+  end
   else
     return true
   end
